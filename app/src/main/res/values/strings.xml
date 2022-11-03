@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="your_example_com">your@example.com</string>
+    <string name="password">Password</string>
+    <string name="u2022_u2022_u2022_u2022_u2022_u2022">• • • • • •</string>
+    <string name="dont_have_any_account">Dont Have Any Account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="we_need_few_details_to_get_your_account_ready">we need few details to get your account ready</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="SIGN_IN">SIGN IN</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="last_message">Last Message</string>
+    <string name="media">Media</string>
+    <string name="type_a_message">Type a message</string>
+
+</resources>
